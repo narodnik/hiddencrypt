@@ -27,8 +27,8 @@ that you have.
 Enough is enough. No pasaran! No to destruction of liberty.
 
 #### YES TO ECONOMIC DISOBEDIENCE
-#### NO TO CORPORATE STATE SLAVERY
-##### YES TO STATE DESTRUCTION
+##### NO TO CORPORATE STATE SLAVERY
+#### YES TO STATE DESTRUCTION
 ##### NO TO GLOBALIST SUBJUGATION
 
 Requirements:
