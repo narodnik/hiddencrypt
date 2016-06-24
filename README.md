@@ -15,7 +15,7 @@ information that can be used by state authorities to blackmail people using
 the wide dragnet that is state law, such as the Terrorism Acts 2000 and 2003.
 
 These are not theoretical attacks that could be used at some future date.
-They are being used often to intimidate environment activists, hackers and
+They are being used often to intimidate environmental activists, hackers and
 Kurdish anarchists. There is no presumption of innocence- you are guilty.
 Not possessing access to encryption keys is *not* a defence.
 
@@ -62,7 +62,7 @@ Volumes are stored in a single contiguous file (slab) at various offsets.
 The offsets are password encrypted and stored in a hashmap array. When you want
 to decrypt a store, the password is scrypt hashed, indexed inside the hashmap,
 and then the row is decrypted to give the offset of the volume. Then using the
-password, the software decrypt the volume.
+password, the software decrypts the volume.
 
 Currently the software uses LUKS containers but a better system would leave
 no container headers so the slab just looks like continuous random data making
