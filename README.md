@@ -2,9 +2,9 @@
 
 *Deniable Encryption to stop UK police*
 
-## Stop the Organized Criminal Class.
-## Down with Law Enforcement.
-## Write Code, smash the State.
+### Stop the Organized Criminal Class.
+### Down with Law Enforcement.
+#### Write Code, smash the State.
 
 The 'war on terror' has been a great excuse for statist micro-authoritarian
 forces in society. The UK, in particular has led this charge towards tyranny.
