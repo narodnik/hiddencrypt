@@ -2,8 +2,8 @@
 
 *Deniable Encryption to stop UK police*
 
-### Stop the Organized Criminal Class.
-### Down with Law Enforcement.
+#### Stop the Organized Criminal Class.
+#### Down with Law Enforcement.
 #### Write Code, smash the State.
 
 The 'war on terror' has been a great excuse for statist micro-authoritarian
@@ -26,10 +26,10 @@ that you have.
 
 Enough is enough. No pasaran! No to destruction of liberty.
 
-## YES TO ECONOMIC DISOBEDIENCE
-## NO TO CORPORATE STATE SLAVERY
-## YES TO STATE DESTRUCTION
-## NO TO GLOBALIST SUBJUGATION
+#### YES TO ECONOMIC DISOBEDIENCE
+#### NO TO CORPORATE STATE SLAVERY
+#### YES TO STATE DESTRUCTION
+#### NO TO GLOBALIST SUBJUGATION
 
 Requirements:
 
