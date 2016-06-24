@@ -1,8 +1,10 @@
-HiddenCrypt - Deniable Encryption to stop UK police
+# HiddenCrypt 
 
-Stop the Organized Criminal Class.
-Down with Law Enforcement.
-Write Code, smash the State.
+*Deniable Encryption to stop UK police*
+
+## Stop the Organized Criminal Class.
+## Down with Law Enforcement.
+## Write Code, smash the State.
 
 The 'war on terror' has been a great excuse for statist micro-authoritarian
 forces in society. The UK, in particular has led this charge towards tyranny.
@@ -24,27 +26,35 @@ that you have.
 
 Enough is enough. No pasaran! No to destruction of liberty.
 
-YES TO ECONOMIC DISOBEDIENCE
-NO TO CORPORATE STATE SLAVERY
-YES TO STATE DESTRUCTION
-NO TO GLOBALIST SUBJUGATION
+## YES TO ECONOMIC DISOBEDIENCE
+## NO TO CORPORATE STATE SLAVERY
+## YES TO STATE DESTRUCTION
+## NO TO GLOBALIST SUBJUGATION
 
 Requirements:
 
+```sh
   $ sudo apt install cryptsetup python3
+```
 
 Create a new hidden volume:
 
+```sh
   $ sudo ./hc.py new
+```
 
 Open a new hidden volume:
 
+```sh
   $ sudo ./hc.py open
   $ ls /mnt/
+```
 
 Close an opened volume:
 
+```sh
   $ sudo ./hc.py close
+```
 
 Technical shit:
 
